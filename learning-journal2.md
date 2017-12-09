@@ -1,0 +1,4 @@
+
+Learning Journal 
+
+After the first day of pair programming I was a little more organized, jotting down a tentative schedule to have a better handle on time. However my partner today was more proactive which I enjoyed, however there were times where I could've done a better job of communicating that I needed to go back over something in order to be on the same page for some of the debugging.   Due to this, I think there were a couple times that Steve could've felt unsupported. I really enjoyed working with Steve also because his knowledge base, he was more comfortable with explaining his logic. Time went much better today. Still could be better. Did not get to the learning journal. Also I'm working to become more comfortable with receiving starter code the morning of the lab. That part is a bit stressful, I'm a horrible skimmer and I have to read things multiple times to grasp all the details. 
