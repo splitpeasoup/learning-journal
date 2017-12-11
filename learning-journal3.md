@@ -1,0 +1,3 @@
+Learning Journal 3 
+
+Friday was a much slower day for progress and to be honest everything was greek, even things that made sense. Over all the pairprogramming was a good partnership, both of us were able to talk and discuss things, even if we were a bit lost. We leaned heavily on Michael but I feel we walked away with a decent understanding of handlebars. I'm curious how monday goes, without pairprogramming. Sometimes I'm more efficient by myself and sometimes I'm the worst person to keep myself in check. I still need to tidy up my assignments. I'm waking up earlier this week and scheduling more of my time to work to be more efficient and not fall further behind. 
