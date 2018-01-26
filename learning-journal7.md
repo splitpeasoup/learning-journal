@@ -1,0 +1,1 @@
+Working with Ed is still going well. I'm personally behind in many assignments, working to do some but this book.js is pretty challenging. We are having a lot of difficulty getting our server and db working properly.
