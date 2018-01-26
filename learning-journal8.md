@@ -1,0 +1,1 @@
+Our difficulties with having a consistently working DB or server is frustrating. This is trying our communication. It was a very frustrating day. Trying to sort out while still finding ways to continue forward, such as CSS.
