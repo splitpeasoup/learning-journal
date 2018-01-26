@@ -1,0 +1,1 @@
+First day working with Ed. We got off to a good start for the book app and have assigned different things to look at before the next day. So far so good. I appreciate his direct and organized approach.
