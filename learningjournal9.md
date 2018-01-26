@@ -1,0 +1,1 @@
+finally have the book app working (for now), it's not perfect but definitely happier than the beginning of the week. I didn't catch up as much as I this weekend on my overdue work, lots of anxiety around this. 
